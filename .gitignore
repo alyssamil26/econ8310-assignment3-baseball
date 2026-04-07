@@ -1,0 +1,7 @@
+data/
+*.mp4
+*.mov
+*.jpg
+*.png
+__pycache__/
+.venv/
